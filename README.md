@@ -5,7 +5,7 @@
 **ID Dicoding:** 490585
 
 ## Deployed Link
-E-Commerce Analytics Dashboard.
+E-Commerce Analytics Dashboard: https://ecomerrceanalysis-jun.streamlit.app/
 
 ## Contents
 - [Project Overview](#project-overview)
@@ -40,7 +40,7 @@ requirements.txt: Python dependencies.
 
 Download the repository to your computer:
 ```bash
-git clone https://github.com/junpito/E-commerce-dashboard.git
+git clone https://github.com/junpito/E_comerrce_Analysis
 ```
 
 Install necessary Python packages using:
